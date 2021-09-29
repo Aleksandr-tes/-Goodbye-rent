@@ -1,0 +1,10 @@
+
+body {
+   --bg-gray:   #415167;
+   --bg-green: #4CAF50;
+
+
+   --color-green2: #86f389;
+
+}
+
